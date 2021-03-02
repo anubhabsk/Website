@@ -48,7 +48,6 @@ body{
     line-height: 1.8em;
     margin: 0%;
     text-align:center;
-    padding-bottom:400px;
 }
 
 .container{
@@ -67,7 +66,7 @@ body{
     font-family:Tahoma;
     text-align: center;
     padding: 0%;
-padding-top: 330px;
+padding-top: 150px;
 font-size: 100px;
 line-height: 1em;
 }
