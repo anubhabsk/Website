@@ -48,8 +48,12 @@ body{
     line-height: 1.8em;
     margin: 0%;
     text-align:center;
-    padding-bottom:150px;
 }
+
+p{
+    padding-bottom: 200px;
+}
+
 
 .container{
     width: 1000px;
